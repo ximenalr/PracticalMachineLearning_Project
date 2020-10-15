@@ -2,7 +2,9 @@
 title: 'Practical Machine Learning: Prediction Writeup'
 author: "Ximena Ramirez"
 date: "10/8/2020"
-output: html_document
+output: 
+        html_document:
+        keep_md: TRUE
 ---
 
 ```{r setup, include=FALSE}
