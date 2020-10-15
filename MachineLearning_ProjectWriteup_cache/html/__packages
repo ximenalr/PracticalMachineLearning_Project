@@ -1,0 +1,9 @@
+base
+lattice
+ggplot2
+caret
+tibble
+bitops
+rattle
+randomForest
+knitr
