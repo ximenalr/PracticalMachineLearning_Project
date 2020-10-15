@@ -5,4 +5,4 @@ The goal of this project is to apply machine learning algorithms learned in the 
 
 Further info on the project, data used, and references can be found in the Executive Summary of the `Project Writeup` Rmarkdown file.
 
-RPubs Publication found [here] (https://rpubs.com/ximenalr/MLpred_proj).
+RPubs Publication found [here](https://rpubs.com/ximenalr/MLpred_proj).
